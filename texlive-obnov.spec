@@ -6,7 +6,7 @@
 # catalog-version 0.11
 Name:		texlive-obnov
 Version:	0.11
-Release:	2
+Release:	3
 Summary:	Obyknovennaya Novaya fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/obnov
