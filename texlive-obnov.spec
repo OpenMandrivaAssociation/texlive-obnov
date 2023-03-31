@@ -1,6 +1,6 @@
 Name:		texlive-obnov
 Version:	33355
-Release:	1
+Release:	2
 Summary:	Obyknovennaya Novaya fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/obnov
