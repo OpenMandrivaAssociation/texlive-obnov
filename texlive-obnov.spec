@@ -3,7 +3,7 @@ Version:	33355
 Release:	2
 Summary:	Obyknovennaya Novaya fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/fonts/obnov
+URL:		https://www.ctan.org/tex-archive/fonts/obnov
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/obnov.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/obnov.doc.r%{version}.tar.xz
